@@ -84,6 +84,8 @@ python evaluate.py
 - **Val:** 317 images with segmentation masks
 - **Format:** Color images (RGB) + Grayscale segmentation masks
 
+##Weights are available on request.
+
 ---
 
 ## Team
